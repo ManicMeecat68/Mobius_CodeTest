@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobiusTest.Android", "MobiusTest\MobiusTest.Android\MobiusTest.Android.csproj", "{2062A4B0-7023-48EB-A047-5858324AE562}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobiusTest", "MobiusTest\MobiusTest\MobiusTest.csproj", "{FBB8325D-9DBB-4904-9CCE-D14441CB704B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2062A4B0-7023-48EB-A047-5858324AE562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2062A4B0-7023-48EB-A047-5858324AE562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2062A4B0-7023-48EB-A047-5858324AE562}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2062A4B0-7023-48EB-A047-5858324AE562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2062A4B0-7023-48EB-A047-5858324AE562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2062A4B0-7023-48EB-A047-5858324AE562}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FBB8325D-9DBB-4904-9CCE-D14441CB704B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB8325D-9DBB-4904-9CCE-D14441CB704B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB8325D-9DBB-4904-9CCE-D14441CB704B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB8325D-9DBB-4904-9CCE-D14441CB704B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF0DB928-F999-43C2-A190-9E1D3A761938}
+	EndGlobalSection
+EndGlobal
